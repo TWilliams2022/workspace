@@ -11,6 +11,9 @@ package com.javatunes.member;
 public class Client {
 
     public static void main(String[] args) {
+      //object instance of child class created
         new SubMember();
+        System.out.println(" ");
+        new SubSubMember();
     }
 }

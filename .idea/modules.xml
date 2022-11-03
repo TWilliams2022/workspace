@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/JUNITexrcises/JUNITexrcises.iml" filepath="$PROJECT_DIR$/JUNITexrcises/JUNITexrcises.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab01.1/Lab01.1.iml" filepath="$PROJECT_DIR$/Lab01.1/Lab01.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab02.2/Lab02.2.iml" filepath="$PROJECT_DIR$/Lab02.2/Lab02.2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab03.1/Lab03.1.iml" filepath="$PROJECT_DIR$/Lab03.1/Lab03.1.iml" />
@@ -11,10 +12,17 @@
       <module fileurl="file://$PROJECT_DIR$/Lab07.1/Lab07.1.iml" filepath="$PROJECT_DIR$/Lab07.1/Lab07.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab08.1/Lab08.1.iml" filepath="$PROJECT_DIR$/Lab08.1/Lab08.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab08.2/Lab08.2.iml" filepath="$PROJECT_DIR$/Lab08.2/Lab08.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab08.4/Lab08.4.iml" filepath="$PROJECT_DIR$/Lab08.4/Lab08.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab09.1/Lab09.1.iml" filepath="$PROJECT_DIR$/Lab09.1/Lab09.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab10.1/Lab10.1.iml" filepath="$PROJECT_DIR$/Lab10.1/Lab10.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab11.0/Lab11.0.iml" filepath="$PROJECT_DIR$/Lab11.0/Lab11.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab12.1/Lab12.1.iml" filepath="$PROJECT_DIR$/Lab12.1/Lab12.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/MiniLab03.1/MiniLab03.1.iml" filepath="$PROJECT_DIR$/MiniLab03.1/MiniLab03.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiniLab08.1/MiniLab08.1.iml" filepath="$PROJECT_DIR$/MiniLab08.1/MiniLab08.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NOTES/NOTES.iml" filepath="$PROJECT_DIR$/NOTES/NOTES.iml" />
       <module fileurl="file://$PROJECT_DIR$/WhiteBoardModel/WhiteBoardModel.iml" filepath="$PROJECT_DIR$/WhiteBoardModel/WhiteBoardModel.iml" />
       <module fileurl="file://$PROJECT_DIR$/WhiteBoardModule/WhiteBoardModule.iml" filepath="$PROJECT_DIR$/WhiteBoardModule/WhiteBoardModule.iml" />
-      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-code-examples/java-code-examples.iml" filepath="$PROJECT_DIR$/java-code-examples/java-code-examples.iml" />
       <module fileurl="file://$PROJECT_DIR$/workspace.iml" filepath="$PROJECT_DIR$/workspace.iml" />
     </modules>
   </component>

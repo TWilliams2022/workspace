@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f6e83ea-d181-481b-8efd-c6411ebd1fa8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab09.1/Lab09.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10.1/Lab10.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniLab08.1/MiniLab08.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NOTES/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteBoard/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteBoard/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteBoard/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteBoard/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteBoard/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteBoard/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteBoard/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteBoard/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteBoard/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteBoard/src/main/java/DogType/DogType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteBoard/src/main/java/ExceptionTest/CustomDogException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteBoard/src/main/java/client/DogsClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteBoard/src/main/java/client/DogsClientArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteBoard/src/main/java/test/DogsValidationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteBoardModel/src/DogType/Dogs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab08.1/Lab08.1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab08.1/Lab08.1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab08.1/src/Inheritance/Cars.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab08.1/src/Inheritance/Cars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab08.1/src/Inheritance/vehicles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab08.1/src/Inheritance2/SalaryEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab08.1/src/Inheritance2/SalaryEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab08.2/Lab08.2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab08.2/Lab08.2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab08.2/src/com/hr/personnel/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab09.1/src/personnel/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab08.2/src/com/hr/personnel/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab09.1/src/personnel/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab08.2/src/com/hr/personnel/HourlyEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab09.1/src/personnel/HourlyEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab08.2/src/com/hr/personnel/SalariedEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab09.1/src/personnel/SalariedEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab08.2/src/com/hr/personnel/client/HRClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab09.1/src/personnel/client/HRClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab09.1/src/com/hr/corp/client/TaxClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab09.1/src/com/hr/corp/client/TaxClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab09.1/src/gov/irs/IRS.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab09.1/src/gov/irs/IRS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab09.1/src/gov/irs/TaxPayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab09.1/src/gov/irs/TaxPayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab10.1/src/com/hr/personnel/HourlyEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab10.1/src/com/hr/personnel/HourlyEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab10.1/src/com/hr/personnel/client/HRClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab10.1/src/com/hr/personnel/client/HRClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab12.1/src/com/poetry/io/PoemClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab12.1/src/com/poetry/io/PoemClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MiniLab08.1/src/com/javatunes/member/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniLab08.1/src/com/javatunes/member/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhiteBoardModel/src/DogType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WhiteBoardModel/src/DogType/DogType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhiteBoardModel/src/Dogs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WhiteBoard/src/main/java/DogType/Dogs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhiteBoardModel/src/client/DogsClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WhiteBoardModel/src/client/DogsClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhiteBoardModel/src/com/dogsvalidationtest/test/DogsValidationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WhiteBoardModel/src/com/dogsvalidationtest/test/DogsValidationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Lab02.2/Arrayz/ArrayPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Lab02.2/Arrayz/ArrayPractice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Lab08.2/com/hr/personnel/Department.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Lab08.2/com/hr/personnel/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Lab08.2/com/hr/personnel/HourlyEmployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Lab08.2/com/hr/personnel/SalariedEmployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Lab08.2/com/hr/personnel/client/HRClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab08.4/Lab08.4.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="bi1ln5jf" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2GzvwmrhKCO8vI0CVSEhxyh6QYN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f6e83ea-d181-481b-8efd-c6411ebd1fa8" name="Changes" comment="" />
+      <created>1667404471388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667404471388</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

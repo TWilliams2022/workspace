@@ -17,7 +17,7 @@ public class SalaryEmployee extends Employee{
 
     @Override
     public String toString() {
-        String nameAndOtherInfoFromParentClass
+        String nameAndOtherInfoFromParentClass;
         return "SalaryEmployee{" +
                 "monthlySalary=" + monthlySalary +
                 '}';
